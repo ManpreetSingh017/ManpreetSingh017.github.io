@@ -1,1 +1,2 @@
 # Responsive-Covid-19-Awareness-Website
+This project is a complete Responsive Covid-19 Awareness Website developed by using HTML, CSS, Javascript and Jquery, containing only authenticated information regarding Prevention, Symptoms, Precautions and Hand-Wash techniques to fight Covid-19 Pandemic.Additionally,it also contains Official website links of WHO, Indian Government and many others, helping us to protect ourselves from this deadly virus. 
